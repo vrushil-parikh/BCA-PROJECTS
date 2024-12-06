@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381273435204",
+    "project_id": "livepractice-419",
+    "storage_bucket": "livepractice-419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381273435204:android:adc413432c660266baa011",
+        "android_client_info": {
+          "package_name": "com.example.livepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381273435204-lh5t6juehtq74qb8dmus1j4hla42s6lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livepractice",
+            "certificate_hash": "41279cd1844fc33f693e2ec3be818be4c6a00e67"
+          }
+        },
+        {
+          "client_id": "381273435204-vmlikfnoo3q9mkpdir10ad4lkg4o17q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSRrFYYjTtpwbfx8esGWmgspRSQESIas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381273435204-vmlikfnoo3q9mkpdir10ad4lkg4o17q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

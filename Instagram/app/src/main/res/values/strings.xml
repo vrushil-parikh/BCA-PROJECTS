@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_all_comments">View all comments</string>
+    <string name="add_a_comment">Add a comment...</string>
+    <string name="comment"><b>%s</b>  Cool!!!...🤗😉</string>
+    <string name="caption"><b>%s</b>  Just fill the joy to feel the happiness</string>
+</resources>

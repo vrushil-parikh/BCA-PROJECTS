@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="bottom"
+    android:background="#A2DCF6"
+    android:layout_height="300dp">
+    <ImageView
+        android:layout_margin="5dp"
+        android:background="@drawable/img_background"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <TextView
+        android:paddingLeft="15dp"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:text="Vrushil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:paddingLeft="15dp"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:text="My first drawer application"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".RegistrationActivity">
+
+    <EditText
+        style="@style/ThemeOverlay.Material3.TextInputEditText.OutlinedBox"
+        android:id="@+id/inputUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter your username"
+        android:inputType="textPersonName" />
+    <EditText
+        style="@style/ThemeOverlay.Material3.TextInputEditText.OutlinedBox"
+        android:id="@+id/inputRegEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter your email"
+        android:inputType="textPersonName" />
+
+    <EditText
+        style="@style/ThemeOverlay.Material3.TextInputEditText.OutlinedBox"
+        android:id="@+id/inputRegPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="enter your password"
+        android:inputType="textPersonName" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnRegistration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Register" />
+</LinearLayout>
